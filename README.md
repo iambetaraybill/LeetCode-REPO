@@ -17,6 +17,7 @@
 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)      | [C# Solution](https://github.com/iambetaraybill/LeetCode-REPO/blob/master/Linked%20List%20Cycle/LinkedListCycle.cs)     |
 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)      | [C# Solution](https://github.com/iambetaraybill/LeetCode-REPO/blob/master/Linked%20List%20Cycle%20II/LinkedListCycleII.cs)     |
 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)      | [C# Solution](https://github.com/iambetaraybill/LeetCode-REPO/blob/master/ValidParentheses.cs)     |
+| [Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/)      | [C# Solution](https://github.com/iambetaraybill/LeetCode-REPO/blob/master/MinimumRemoveToMakeValidParentheses.cs)     |
 
 
 ### Author
