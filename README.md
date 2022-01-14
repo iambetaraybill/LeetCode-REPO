@@ -19,6 +19,8 @@
 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)      | [C# Solution](https://github.com/iambetaraybill/LeetCode-REPO/blob/master/ValidParentheses.cs)     |
 | [Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/)      | [C# Solution](https://github.com/iambetaraybill/LeetCode-REPO/blob/master/MinimumRemoveToMakeValidParentheses.cs)     |
 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)      | [C# Solution](https://github.com/iambetaraybill/LeetCode-REPO/blob/master/ImplementQueueUsingStacks.cs)     |
+| [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)      | [C# Solution](https://github.com/iambetaraybill/LeetCode-REPO/blob/master/ContainerWithMostWater.cs)     |
+| [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)      | [C# Solution](https://github.com/iambetaraybill/LeetCode-REPO/blob/master/AddTwoNumbers.cs)     |
 
 
 ### Author
