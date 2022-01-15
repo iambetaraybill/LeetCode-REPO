@@ -21,7 +21,7 @@
 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)      | [C# Solution](https://github.com/iambetaraybill/LeetCode-REPO/blob/master/ImplementQueueUsingStacks.cs)     |
 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)      | [C# Solution](https://github.com/iambetaraybill/LeetCode-REPO/blob/master/ContainerWithMostWater.cs)     |
 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)      | [C# Solution](https://github.com/iambetaraybill/LeetCode-REPO/blob/master/AddTwoNumbers.cs)     |
-
+| [Palindrome Number](https://leetcode.com/problems/palindrome-number/)      | [C# Solution](https://github.com/iambetaraybill/LeetCode-REPO/blob/master/PalindromeNumber.cs)     |
 
 ### Author
 
