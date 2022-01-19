@@ -22,6 +22,7 @@
 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)      | [C# Solution](https://github.com/iambetaraybill/LeetCode-REPO/blob/master/ContainerWithMostWater.cs)     |
 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)      | [C# Solution](https://github.com/iambetaraybill/LeetCode-REPO/blob/master/AddTwoNumbers.cs)     |
 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/)      | [C# Solution](https://github.com/iambetaraybill/LeetCode-REPO/blob/master/PalindromeNumber.cs)     |
+| [Squares Of A Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)      | [C# Solution](https://github.com/iambetaraybill/LeetCode-REPO/blob/master/SquaresOfASortedArray.cs)     |
 
 ### Author
 
