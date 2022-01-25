@@ -25,6 +25,8 @@
 | [Squares Of A Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)      | [C# Solution](https://github.com/iambetaraybill/LeetCode-REPO/blob/master/SquaresOfASortedArray.cs)     |
 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/)      | [C# Solution](https://github.com/iambetaraybill/LeetCode-REPO/blob/master/SearchInsertPosition.cs)     |
 | [Single Number](https://leetcode.com/problems/single-number/)      | [C# Solution](https://github.com/iambetaraybill/LeetCode-REPO/blob/master/SingleNumber.cs)     |
+| [Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/)      | [C# Solution](https://github.com/iambetaraybill/LeetCode-REPO/blob/master/ValidMountainArray.cs)     |
+
 ### Author
 
 **Arpan Sarkar** - [https://github.com/iambetaraybill](https://github.com/iambetaraybill)
