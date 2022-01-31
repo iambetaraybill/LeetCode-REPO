@@ -29,5 +29,4 @@
 
 ### Author
 
-### [Repl.it LeetCode C# Solutions Link](https://replit.com/@ARPANSARKAR1/LeetCode-REPO#.replit) </br></br>
 **Arpan Sarkar** - [https://github.com/iambetaraybill](https://github.com/iambetaraybill)
