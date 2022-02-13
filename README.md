@@ -1,6 +1,6 @@
 # LeetCode-REPO</br>
 
-My Leet Code - [ 😊 Here 😄](https://leetcode.com/arpan98sarkar/)
+My Leet Code - [H](https://leetcode.com/arpan98sarkar/)
 
 
 ## LeetCode questions with C# solution </br> 
